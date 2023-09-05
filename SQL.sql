@@ -1,1 +1,2 @@
-SELECT title FROM books 
+SELECT title FROM books; 
+SELECT namee FROM books
